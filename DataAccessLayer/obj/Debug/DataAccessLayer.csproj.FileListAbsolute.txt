@@ -1,0 +1,25 @@
+C:\GitHub_Victoria\RedSocial\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\GitHub_Victoria\RedSocial\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\GitHub_Victoria\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\GitHub_Victoria\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\GitHub_Victoria\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

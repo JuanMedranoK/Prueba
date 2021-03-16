@@ -1,0 +1,117 @@
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.csprojAssemblyReference.cache
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.frmFriends.resources
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.frmHome.resources
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.frmLogin.resources
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.csproj.GenerateResource.cache
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\RedSocial.exe.config
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\RedSocial.exe
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\RedSocial.pdb
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.Properties.Resources.resources
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.exe
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.pdb
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\BusinessLayer.dll
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\DataAccessLayer.dll
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\BusinessLayer.pdb
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\DataAccessLayer.pdb
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.csproj.CopyComplete
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\EmailHandle.dll
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\EmailHandle.pdb
+C:\GitHub_Victoria\RedSocial\RedSocial\bin\Debug\EmailHandle.dll.config
+C:\GitHub_Victoria\RedSocial\RedSocial\obj\Debug\RedSocial.frmRegister.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\RedSocial.exe.config
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\RedSocial.exe
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\RedSocial.pdb
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\BusinessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\DataAccessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\EmailHandle.dll
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\BusinessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\DataAccessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\EmailHandle.pdb
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\bin\Debug\EmailHandle.dll.config
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.eventsFriends.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.FriendsList.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmAddFriends.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmEvents.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmFriends.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmHome.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmLogin.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmPasswordRestore.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.frmRegister.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.PostList.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.Properties.Resources.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.PublishImage.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.UserComments.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.userEvent.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.userFriendsEvents.resources
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.csproj.GenerateResource.cache
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.csproj.CopyComplete
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.exe
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.pdb
+C:\Users\Victoria\source\repos\RedSocial\RedSocial\obj\Debug\RedSocial.friendsPostList.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\RedSocial.exe.config
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\RedSocial.exe
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\RedSocial.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\BusinessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\DataAccessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\EmailHandle.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\BusinessLayer.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\DataAccessLayer.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\EmailHandle.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\bin\Debug\EmailHandle.dll.config
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.eventsFriends.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.FriendsList.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.friendsPostList.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmAddFriends.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmEvents.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmFriends.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmHome.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmLogin.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmPasswordRestore.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.frmRegister.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.PostList.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.Properties.Resources.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.PublishImage.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.UserComments.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.userEvent.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.userFriendsEvents.resources
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.csproj.GenerateResource.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.csproj.CopyComplete
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.exe
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\RedSocial\obj\Debug\RedSocial.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\RedSocial.exe.config
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\RedSocial.exe
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\RedSocial.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\BusinessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\DataAccessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\EmailHandle.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\BusinessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\DataAccessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\EmailHandle.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\bin\Debug\EmailHandle.dll.config
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.eventsFriends.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.FriendsList.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.friendsPostList.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmAddFriends.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmEvents.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmFriends.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmHome.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmLogin.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmPasswordRestore.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.frmRegister.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.PostList.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.Properties.Resources.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.PublishImage.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.UserComments.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.userEvent.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.userFriendsEvents.resources
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.csproj.GenerateResource.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.exe
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\RedSocial\obj\Debug\RedSocial.pdb

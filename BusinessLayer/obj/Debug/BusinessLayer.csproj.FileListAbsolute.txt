@@ -1,0 +1,36 @@
+C:\GitHub_Victoria\RedSocial\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\GitHub_Victoria\RedSocial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\GitHub_Victoria\RedSocial\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\GitHub_Victoria\RedSocial\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\GitHub_Victoria\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\GitHub_Victoria\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\GitHub_Victoria\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\GitHub_Victoria\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Victoria\source\repos\RedSocial\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\BusinessLayer\obj\Debug\BusinessLayer.pdb

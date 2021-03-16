@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A739B80D-7D6F-4DAE-8D12-98286BDBDACF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RedSocial</RootNamespace>
+    <AssemblyName>RedSocial</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="eventsFriends.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="eventsFriends.Designer.cs">
+      <DependentUpon>eventsFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FriendsList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FriendsList.Designer.cs">
+      <DependentUpon>FriendsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="friendsPostList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="friendsPostList.Designer.cs">
+      <DependentUpon>friendsPostList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddFriends.Designer.cs">
+      <DependentUpon>frmAddFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEvents.Designer.cs">
+      <DependentUpon>frmEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFriends.Designer.cs">
+      <DependentUpon>frmFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPasswordRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPasswordRestore.Designer.cs">
+      <DependentUpon>frmPasswordRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PostList.Designer.cs">
+      <DependentUpon>PostList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EventState.cs" />
+    <Compile Include="PublishImage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PublishImage.Designer.cs">
+      <DependentUpon>PublishImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserComments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserComments.Designer.cs">
+      <DependentUpon>UserComments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userEvent.Designer.cs">
+      <DependentUpon>userEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userFriendsEvents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userFriendsEvents.Designer.cs">
+      <DependentUpon>userFriendsEvents.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="eventsFriends.resx">
+      <DependentUpon>eventsFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FriendsList.resx">
+      <DependentUpon>FriendsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="friendsPostList.resx">
+      <DependentUpon>friendsPostList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddFriends.resx">
+      <DependentUpon>frmAddFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEvents.resx">
+      <DependentUpon>frmEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFriends.resx">
+      <DependentUpon>frmFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPasswordRestore.resx">
+      <DependentUpon>frmPasswordRestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostList.resx">
+      <DependentUpon>PostList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublishImage.resx">
+      <DependentUpon>PublishImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserComments.resx">
+      <DependentUpon>UserComments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userEvent.resx">
+      <DependentUpon>userEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userFriendsEvents.resx">
+      <DependentUpon>userFriendsEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
+      <Project>{1C1D7E4D-34BE-486A-8ADE-0AC605DDD4EF}</Project>
+      <Name>BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{0B85D676-46B6-4D8B-92DC-9E545A6CE609}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmailHandle\EmailHandle.csproj">
+      <Project>{4BB15CF8-57A9-4832-A4BA-957086C5FF32}</Project>
+      <Name>EmailHandle</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

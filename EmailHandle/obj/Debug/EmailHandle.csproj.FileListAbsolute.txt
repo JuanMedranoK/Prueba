@@ -1,0 +1,29 @@
+C:\GitHub_Victoria\RedSocial\EmailHandle\bin\Debug\EmailHandle.dll.config
+C:\GitHub_Victoria\RedSocial\EmailHandle\bin\Debug\EmailHandle.dll
+C:\GitHub_Victoria\RedSocial\EmailHandle\bin\Debug\EmailHandle.pdb
+C:\GitHub_Victoria\RedSocial\EmailHandle\obj\Debug\EmailHandle.csprojAssemblyReference.cache
+C:\GitHub_Victoria\RedSocial\EmailHandle\obj\Debug\EmailHandle.dll
+C:\GitHub_Victoria\RedSocial\EmailHandle\obj\Debug\EmailHandle.pdb
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\bin\Debug\EmailHandle.dll.config
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\bin\Debug\EmailHandle.dll
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\bin\Debug\EmailHandle.pdb
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\obj\Debug\EmailHandle.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\obj\Debug\EmailHandle.dll
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\obj\Debug\EmailHandle.pdb
+C:\Users\Victoria\source\repos\RedSocial\EmailHandle\obj\Debug\EmailHandle.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\bin\Debug\EmailHandle.dll.config
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\bin\Debug\EmailHandle.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\bin\Debug\EmailHandle.pdb
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\obj\Debug\EmailHandle.csprojAssemblyReference.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\obj\Debug\EmailHandle.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\obj\Debug\EmailHandle.dll
+C:\Users\Daniel Lopez\Desktop\RedSocial-Victoria\EmailHandle\obj\Debug\EmailHandle.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\bin\Debug\EmailHandle.dll.config
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\bin\Debug\EmailHandle.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\bin\Debug\EmailHandle.pdb
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\obj\Debug\EmailHandle.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\obj\Debug\EmailHandle.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\obj\Debug\EmailHandle.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\obj\Debug\EmailHandle.dll
+C:\Users\Maribel-Ciprian\Downloads\RedSocial-C#\EmailHandle\obj\Debug\EmailHandle.pdb
